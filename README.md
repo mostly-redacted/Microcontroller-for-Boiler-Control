@@ -1,2 +1,2 @@
 # Microcontroller-for-Boiler-Control
-Temperature monitoring in a boiler system at 3 points. At source of heat, in reflux column and at exit.
+Temperature monitoring in a boiler system at 4 points. For prouduct at source of heatand at top of reflux column. For cooling system; at source of cooling water and at return. And monitoring of flow rate of cooling water.
